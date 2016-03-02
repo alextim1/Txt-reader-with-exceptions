@@ -1,0 +1,6 @@
+C:\Users\ivy\Documents\GitHub\ReadTXTWithExceptions\ReadTXTWithExceptions\bin\Debug\ReadTXTWithExceptions.exe.config
+C:\Users\ivy\Documents\GitHub\ReadTXTWithExceptions\ReadTXTWithExceptions\bin\Debug\ReadTXTWithExceptions.exe
+C:\Users\ivy\Documents\GitHub\ReadTXTWithExceptions\ReadTXTWithExceptions\bin\Debug\ReadTXTWithExceptions.pdb
+C:\Users\ivy\Documents\GitHub\ReadTXTWithExceptions\ReadTXTWithExceptions\obj\Debug\ReadTXTWithExceptions.csprojResolveAssemblyReference.cache
+C:\Users\ivy\Documents\GitHub\ReadTXTWithExceptions\ReadTXTWithExceptions\obj\Debug\ReadTXTWithExceptions.exe
+C:\Users\ivy\Documents\GitHub\ReadTXTWithExceptions\ReadTXTWithExceptions\obj\Debug\ReadTXTWithExceptions.pdb
